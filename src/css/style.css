@@ -1,0 +1,58 @@
+body {
+     color: wheat;
+     background: url("https://cdn.wallpapersafari.com/44/32/lzqMFG.jpg");
+}
+.title{
+     display: flex;
+     justify-content: center;
+}
+.input{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 400px;
+     padding: 5px 20px;
+     margin: 50px auto;
+     border-radius: 20px;
+}
+.country{
+     display: flex;
+     font-size: 40px;
+}
+.country-box__title{
+     text-align: center;
+
+}
+.country-box__container{
+     width: 800px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+     color: black;
+     font-size: 26px;
+     margin: 0 auto;
+     border-bottom: 2px solid gainsboro;
+
+
+}
+.form{
+     color: white;
+     margin-bottom: 10px;
+}
+
+.form-item{
+     margin-top: 20px;
+}
+.country-box__img{
+     display: block;
+     margin-left: 160px;
+}
+.country-box__list{
+     list-style: none;
+     margin: 0;
+     padding: 0;
+}
+button {
+     display: none;
+}
