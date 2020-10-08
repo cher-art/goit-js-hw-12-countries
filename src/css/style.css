@@ -39,6 +39,7 @@ body {
 .form{
      color: white;
      margin-bottom: 10px;
+     list-style-type: none;
 }
 
 .form-item{
