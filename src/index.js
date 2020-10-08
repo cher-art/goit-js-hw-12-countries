@@ -34,4 +34,4 @@ input.addEventListener('input', debounce(() => {
         div.innerHTML = '<h1>LOL: 404</h1>';
         console.log(err);
     })
-}, 500))
+}, 2000))
